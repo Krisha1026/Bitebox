@@ -21,6 +21,9 @@ A modern, responsive food delivery web application built with **React.js** and *
 - **Styling**: CSS3
 - **Package Manager**: npm
 
+<img width="766" height="446" alt="s1" src="https://github.com/user-attachments/assets/92415767-3dc2-4aeb-a89a-c08f58ebe2a7" />
+
+
 ## 🚀 Quick Start
 
 ```bash
