@@ -1,4 +1,4 @@
-# 🍕 FoodDeliver - Food Delivery Website
+# 🍕 BiteBox - Food Delivery Website
 
 A modern, responsive food delivery web application built with **React.js** and **Vite**.
 
